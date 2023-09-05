@@ -23,7 +23,7 @@ nohttp {
 check {
 	dependsOn checkstyleNohttp
 }
-
+# TODO what's this?
 allprojects {
 	group "org.springframework.boot"
 
